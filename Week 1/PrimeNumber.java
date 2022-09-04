@@ -1,6 +1,6 @@
 /* package codechef; // don't place package name! */
 
-/*---Defenation---
+/*---Defenation-----
 
 Alice and Bob are meeting after a long time. As usual they love to play some math games. This times Alice takes the call and decides the game. The game is very simple, Alice says out an integer and Bob has to say whether the number is prime or not. Bob as usual knows the logic but since Alice doesn't give Bob much time to think, so Bob decides to write a computer program.
 
