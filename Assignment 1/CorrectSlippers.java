@@ -3,7 +3,8 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-
+/*Defenation---
+Chef has NN slippers, LL of which are left slippers and the rest are right slippers. Slippers must always be sold in pairs, where each pair contains one left and one right slipper. If each pair of slippers cost XX rupees, what is the maximum amount of rupees that Chef can get for these slippers?*/
 /* Name of the class has to be "Main" only if the class is public. */
 class Codechef
 {
