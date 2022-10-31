@@ -18,12 +18,12 @@ public class IsitDerived {
             int[] array3 = new int[size];
             for (int j = 0; j < (size) / 2; j++) {
                 array2[j] = array1[j];
-//                System.out.print(array2[j] + " ");
+               System.out.print(array2[j] + " ");
             }
             System.out.println(" ");
             for (int j = (array1.length / 2); j < size; j++) {
                 array3[j] = array1[j];
-//                System.out.print(array3[j] + " ");
+               System.out.print(array3[j] + " ");
             }
             if (Arrays.equals(array2, array3)) {
                 System.out.println("Yes");
