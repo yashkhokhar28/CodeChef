@@ -16,7 +16,6 @@ Have at least y_1y
   current rating on Codechef.
 Make his last submission at most z_1z
 1
-​
   months ago.
 You are given the number of problems solved by Chef (x_2x
 2
